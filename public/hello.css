@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Lato","Raleway",Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 1.9rem;
+    font-weight: 540;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 1.6rem;
+    border: 8px solid black;
+    margin-right: 49px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    padding: 4px;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: #fff;
+}
